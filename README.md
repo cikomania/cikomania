@@ -24,7 +24,10 @@
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=cikomania&layout=compact&theme=dracula" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cikomania&theme=dracula" 
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cikomania&theme=dracula" 
   />
 </p>
 
