@@ -6,11 +6,6 @@
 </p>
 
 <p align="center">
-  Building interactive projects with <b>Unity</b>, <b>React</b> and <b>Node.js</b>.<br/>
-  Currently exploring <b>WebGL</b>, game development and modern web technologies.
-</p>
-
-<p align="center">
   <img width="170" src="https://github.com/user-attachments/assets/d979b657-6e38-4df6-92ca-818a0e299f4e" />
 </p>
 
@@ -78,17 +73,59 @@
 ## Languages & Tools  
 
 <p align="center">
-  <img alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />&nbsp;&nbsp;
-  <img alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
-  <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
-  <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
-  <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
-  <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;&nbsp;
-  <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;&nbsp;
-  <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;
-  <img alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />&nbsp;&nbsp;
-  <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;
-  <img alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />&nbsp;&nbsp;
-  <img alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />&nbsp;&nbsp;
-  <img alt="Scikit-Learn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  <a href="https://unity.com/" target="_blank">
+    <img alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://csharp.com/" target="_blank">
+    <img alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.javascript.com/" target="_blank">
+    <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://react.dev/" target="_blank">
+    <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://nodejs.org/" target="_blank">
+    <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.w3schools.com/html/" target="_blank">
+    <img alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.python.org/" target="_blank">
+    <img alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.selenium.dev/" target="_blank">
+    <img alt="Selenium" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://pandas.pydata.org/" target="_blank">
+    <img alt="Pandas" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://numpy.org/" target="_blank">
+    <img alt="NumPy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img alt="Scikit-Learn" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" />
+  </a>
 </p>
