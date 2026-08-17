@@ -23,14 +23,54 @@
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cikomania&theme=dracula" 
-  />
-  <img 
-    height="180"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cikomania&theme=dracula" 
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cikomania&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cikomania&theme=default"
+    />
+    <img
+      height="180"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cikomania&theme=default"
+      alt="GitHub Repository Languages"
+    />
+  </picture>
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cikomania&theme=github_dark"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cikomania&theme=default"
+    />
+    <img
+      height="180"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cikomania&theme=default"
+      alt="GitHub Profile Details"
+    />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/cikomania/cikomania/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/cikomania/cikomania/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/cikomania/cikomania/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ---
@@ -39,7 +79,7 @@
 
 <p align="center">
   <img alt="Unity" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />&nbsp;&nbsp;
-  <img alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;  
+  <img alt="C#" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />&nbsp;&nbsp;
   <img alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
   <img alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
   <img alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />&nbsp;&nbsp;
